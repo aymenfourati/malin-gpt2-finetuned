@@ -1,0 +1,2044 @@
+[
+  {
+    "keywords": ["restaurant", "positive experience"],
+    "comment": "Wow... Loved this place.",
+    "reply": "Thank you for your positive feedback! We're thrilled that you loved your experience. We look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "disappointed", "crust not good"],
+    "comment": "Crust is not good.",
+    "reply": "We apologize for the disappointment with the crust. Your feedback is valuable, and we'll work to improve this aspect of our offerings.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "disappointed", "taste and texture issues"],
+    "comment": "Not tasty and the texture was just nasty.",
+    "reply": "We apologize for the unsatisfactory taste and texture. Your feedback helps us improve, and we'll take steps to address these concerns.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "positive experience", "recommendation"],
+    "comment": "Stopped by during the late May bank holiday off a recommendation and loved it.",
+    "reply": "We're delighted to hear that you enjoyed your visit based on the recommendation! Thank you for choosing us.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "menu variety", "affordable prices", "positive experience"],
+    "comment": "The selection on the menu was great and so were the prices.",
+    "reply": "Thank you for your positive feedback on our menu and pricing! We're glad you had a great experience.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "delayed service", "angry", "want my pho", "disappointed"],
+    "comment": "Now I am getting angry and I want my damn pho.",
+    "reply": "We apologize for the delay and any frustration caused. We'll investigate and work to ensure a more timely service in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "freshness concerns", "didn't taste fresh", "honesty", "disappointed"],
+    "comment": "Honestly, it didn't taste THAT fresh.",
+    "reply": "We're sorry to hear about the freshness concern. Your feedback is important, and we'll strive to enhance the freshness of our dishes.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "potato quality", "rubbery", "pre-made", "disappointed"],
+    "comment": "The potatoes were like rubber and you could tell they had been made up ahead of time being kept under a warmer.",
+    "reply": "We apologize for the rubbery texture of the potatoes. Your feedback is noted, and we'll work to improve our food preparation.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "positive experience", "great fries"],
+    "comment": "The fries were great too.",
+    "reply": "Thank you for your positive feedback on our fries! We're glad you enjoyed them and hope to serve you again soon.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "positive experience", "great touch"],
+    "comment": "A great touch.",
+    "reply": "We're delighted to hear that you appreciated the touch we added! Thank you for your positive feedback.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "prompt service", "positive experience"],
+    "comment": "Service was very prompt.",
+    "reply": "Thank you for acknowledging our prompt service! We appreciate your positive feedback and look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "not likely to return", "disappointed"],
+    "comment": "Would not go back.",
+    "reply": "We're sorry to hear that you won't be returning. If there's anything specific you'd like us to address, please let us know.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "overpriced", "cashier attitude", "disappointed"],
+    "comment": "The cashier had no care whatsoever on what I had to say; it still ended up being wayyy overpriced.",
+    "reply": "We apologize for the overpricing and any lack of attentiveness. Your feedback is noted, and we'll address these issues.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "positive experience", "Cape Cod ravioli"],
+    "comment": "I tried the Cape Cod ravioli, chicken, with cranberry... mmmm!",
+    "reply": "We're thrilled that you enjoyed the Cape Cod ravioli! Your positive feedback is appreciated, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "disgusted", "hair in food", "disappointed"],
+    "comment": "I was disgusted because I was pretty sure that was human hair.",
+    "reply": "We sincerely apologize for the unpleasant experience. We'll investigate this matter and take necessary steps to ensure it doesn't happen again.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "shocked", "cash only", "disappointed"],
+    "comment": "I was shocked because no signs indicate cash only.",
+    "reply": "We apologize for any confusion regarding payment. We'll ensure to provide clear information about our payment methods in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "highly recommended", "positive experience"],
+    "comment": "Highly recommended.",
+    "reply": "Thank you for the recommendation! We're delighted that you enjoyed your experience and appreciate your positive feedback.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "slow service", "disappointed"],
+    "comment": "Waitress was a little slow in service.",
+    "reply": "We apologize for the slow service. Your feedback is noted, and we'll work to improve the efficiency of our staff.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "not worth it", "disappointed"],
+    "comment": "This place is not worth your time, let alone Vegas.",
+    "reply": "We're sorry to hear that you didn't find value in your experience. If you have specific concerns, please let us know so we can address them.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "did not like at all", "disappointed"],
+    "comment": "Did not like at all.",
+    "reply": "We're sorry to hear that our offerings didn't meet your expectations. If there's anything specific you'd like us to address, please let us know.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "disappointed", "Burritos Blah"],
+    "comment": "The Burritos Blah!",
+    "reply": "We apologize for the disappointment with the burritos. Your feedback is noted, and we'll work to enhance our offerings.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "amazing food", "positive experience"],
+    "comment": "The food, amazing.",
+    "reply": "We're thrilled to hear that you found our food amazing! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "cute service", "positive experience"],
+    "comment": "Service is also cute.",
+    "reply": "Thank you for your kind words about our service! We're glad you had a positive experience and hope to see you again soon.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "beautiful interior", "positive experience"],
+    "comment": "I could care less... The interior is just beautiful.",
+    "reply": "We're pleased to hear that you appreciate our beautiful interior! Your positive feedback is valued, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "performed well", "positive experience"],
+    "comment": "So they performed.",
+    "reply": "We're glad to hear that our team performed well. Your positive feedback is appreciated, and we hope to have the pleasure of serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "red velvet cake", "positive experience"],
+    "comment": "That's right....the red velvet cake.....ohhh this stuff is so good.",
+    "reply": "We're delighted that you enjoyed our red velvet cake! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "salad not served", "disappointed"],
+    "comment": "- They never brought a salad we asked for.",
+    "reply": "We apologize for the oversight in not serving the requested salad. Your feedback is important, and we'll address this issue to ensure it doesn't happen again.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "Mexican street tacos", "friendly staff", "positive experience"],
+    "comment": "This hole in the wall has great Mexican street tacos, and friendly staff.",
+    "reply": "Thank you for your positive feedback on our Mexican street tacos and friendly staff! We're glad you enjoyed your experience.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "long wait for food", "warm food", "disappointed"],
+    "comment": "Took an hour to get our food only 4 tables in the restaurant; my food was lukewarm. Our server was running around like he was totally overwhelmed.",
+    "reply": "We apologize for the extended wait time and the lukewarm food. Your feedback is noted, and we'll address these issues to improve our service.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "salmon sashimi quality", "disappointed"],
+    "comment": "The worst was the salmon sashimi.",
+    "reply": "We apologize for the disappointment with the salmon sashimi. Your feedback is important, and we'll work to improve the quality of our dishes.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "burger combo deal", "positive experience"],
+    "comment": "Also, there are combos like a burger, fries, and beer for $23 which is a decent deal.",
+    "reply": "Thank you for appreciating our combo deals! We're glad you found value in them and hope to serve you again soon.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "final blow", "disappointed"],
+    "comment": "This was like the final blow!",
+    "reply": "We're sorry to hear about your disappointment. If there's anything specific you'd like us to address, please let us know so we can improve.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "found this place by accident", "positive experience"],
+    "comment": "I found this place by accident and I could not be happier.",
+    "reply": "We're delighted that you stumbled upon us and had a positive experience! Your feedback is appreciated, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "quick place", "pub food", "disappointed"],
+    "comment": "Seems like a good quick place to grab a bite of some familiar pub food, but do yourself a favor and look elsewhere.",
+    "reply": "We're sorry to hear that we didn't meet your expectations. If there's anything specific you'd like us to address, please let us know.",
+    "satisfaction": 0
+  },
+{
+    "keywords": ["restaurant", "positive experience", "grand reopening event", "new menu launch"],
+    "comment": "Overall, I like this place a lot.",
+    "reply": "We're thrilled to hear that you enjoyed your experience! Thank you for your positive feedback. The grand reopening event and new menu launch have been exciting for us, and we look forward to serving you again.",
+    "satisfaction": 1
+    },
+    {
+    "keywords": ["restaurant", "affordable dining", "limited-time discount", "menu revamp"],
+    "comment": "The only redeeming quality of the restaurant was that it was very inexpensive.",
+    "reply": "We appreciate your feedback. To enhance your dining experience, we've introduced a limited-time discount on select items and revamped our menu. We hope you find these changes appealing.",
+    "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "ample portions", "special pricing", "culinary innovations"],
+      "comment": "Ample portions and good prices.",
+      "reply": "Thank you for your positive feedback on our portions and prices! We're excited to share that we're constantly working on culinary innovations to enhance your dining experience.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "service improvement", "waitstaff training program"],
+      "comment": "Poor service, the waiter made me feel like I was stupid every time he came to the table.",
+      "reply": "We apologize for the poor service. Rest assured, we've initiated a comprehensive waitstaff training program to improve service quality. Your feedback is valuable, and we appreciate your patience.",
+      "satisfaction": 0
+    },
+    {
+      "keywords": ["restaurant", "delightful first visit", "chef's special creations"],
+      "comment": "My first visit to Hiro was a delight!",
+      "reply": "We're thrilled to hear that your first visit was delightful! Our chef has introduced special creations that we hope will continue to impress you. Thank you for choosing Hiro, and we look forward to your next visit.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "service improvement", "customer feedback"],
+      "comment": "Service sucks.",
+      "reply": "We apologize for the unsatisfactory service. Your feedback helps us identify areas for improvement, and we're actively working to enhance our customer service. Thank you for bringing this to our attention.",
+      "satisfaction": 0
+    },
+    {
+      "keywords": ["restaurant", "premium seafood", "tasting event"],
+      "comment": "The shrimp tender and moist.",
+      "reply": "Thank you for the positive feedback on our shrimp! We're excited to announce a premium seafood tasting event in the coming weeks. We hope you can join us for this special occasion.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "customer loyalty", "exclusive deals"],
+      "comment": "There is not a deal good enough that would drag me into that establishment again.",
+      "reply": "We value your feedback and understand your concerns. As a gesture of appreciation for your loyalty, we'd like to offer you exclusive deals on your next visit. Please give us another chance to make your experience memorable.",
+      "satisfaction": 0
+    },
+    {
+      "keywords": ["restaurant", "culinary hygiene", "kitchen renovation"],
+      "comment": "Hard to judge whether these sides were good because we were grossed out by the melted styrofoam and didn't want to eat it for fear of getting sick.",
+      "reply": "We sincerely apologize for the unpleasant experience. We've undertaken a kitchen renovation to ensure the highest culinary hygiene standards. We appreciate your understanding and hope to welcome you back soon.",
+      "satisfaction": 0
+    },
+    {
+      "keywords": ["restaurant", "positive note", "server appreciation day"],
+      "comment": "On a positive note, our server was very attentive and provided great service.",
+      "reply": "Thank you for acknowledging our attentive service! In celebration of our hardworking staff, we'll be hosting a server appreciation day soon. We hope to see you there!",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "quality assurance", "customer feedback"],
+      "comment": "Frozen pucks of disgust, with some of the worst people behind the register.",
+      "reply": "We apologize for the negative experience. Your feedback is noted, and we're implementing quality assurance measures to ensure a more positive visit in the future. Thank you for bringing this to our attention.",
+      "satisfaction": 0
+    },
+    {
+      "keywords": ["restaurant", "menu highlights", "recommendation program"],
+      "comment": "The only thing I did like was the prime rib and dessert section.",
+      "reply": "We're delighted to hear you enjoyed the prime rib and dessert! To make your next visit even more enjoyable, we've introduced a recommendation program highlighting menu favorites. We hope you find it helpful.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "diverse menu options", "culinary creativity"],
+      "comment": "It's too bad the food is so damn generic.",
+      "reply": "We appreciate your feedback. Our culinary team is actively working on introducing diverse menu options to showcase their creativity. We hope you'll give us another chance to impress you.",
+      "satisfaction": 0
+    },
+    {
+      "keywords": ["restaurant", "juicy burger", "limited-time specials"],
+      "comment": "The burger is good beef, cooked just right.",
+      "reply": "Thank you for your positive feedback on our burger! We're currently featuring limited-time specials that include juicy burger options. We hope to serve you again soon.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "sandwich variety", "sampling event"],
+      "comment": "If you want a sandwich just go to any Firehouse!!!!!",
+      "reply": "We appreciate the comparison! To showcase our sandwich variety, we're hosting a sampling event soon. We hope you'll consider giving us a try during this special occasion.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "refreshing salads", "free tastings"],
+      "comment": "My side Greek salad with the Greek dressing was so tasty, and the pita and hummus was very refreshing.",
+      "reply": "We're delighted that you enjoyed our Greek salad and pita with hummus! To express our gratitude, we're offering free tastings of our refreshing salads on your next visit. We look forward to serving you again.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "culinary excellence", "chef's specials"],
+      "comment": "We ordered the duck rare and it was pink and tender on the inside with a nice char on the outside.",
+      "reply": "We're thrilled to hear that you enjoyed the duck! Our chef is committed to culinary excellence and frequently introduces special dishes. We hope you'll join us to experience more of our chef's specials in the future.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "lost and found service", "customer care"],
+      "comment": "He came running after us when he realized my husband had left his sunglasses on the table.",
+      "reply": "We're glad we could retrieve the sunglasses for you! As part of our enhanced customer care, we've implemented a lost and found service to ensure the safety of your belongings. Thank you for your positive feedback.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "culinary exploration", "specialty dishes"],
+      "comment": "Their chow mein is so good!",
+      "reply": "Thank you for your positive feedback on our chow mein! We're currently encouraging culinary exploration by introducing new specialty dishes. We hope you'll join us for a taste adventure on your next visit.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "customer feedback", "service improvement"],
+      "comment": "They have horrible attitudes towards customers, and talk down to each one when customers don't enjoy their food.",
+      "reply": "We apologize for the negative experience. Your feedback is invaluable, and we're implementing a comprehensive service improvement program based on customer feedback. Thank you for helping us identify areas for enhancement.",
+      "satisfaction": 0
+    },
+    {
+      "keywords": ["restaurant", "generous portions", "limited-time promotions"],
+      "comment": "The portion was huge!",
+      "reply": "We're glad you enjoyed our generous portions! To express our gratitude, we're introducing limited-time promotions with even more value for your money. We look forward to serving you again.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "innovative touches", "customer favorites"],
+      "comment": "Loved it...friendly servers, great food, wonderful and imaginative menu.",
+      "reply": "We're thrilled to hear that you loved it! Our chefs are adding innovative touches to customer favorites on the menu. Thank you for your positive feedback, and we look forward to surprising you with more imaginative creations on your next visit.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "customer feedback", "continuous improvement"],
+      "comment": "The Heart Attack Grill in downtown Vegas is an absolutely flat-lined excuse for a restaurant.",
+      "reply": "We appreciate your feedback. As part of our commitment to continuous improvement, we're actively reviewing customer feedback to enhance our offerings. Thank you for bringing this to our attention.",
+      "satisfaction": 0
+    },
+    {
+      "keywords": ["restaurant", "seafood disappointment", "menu enhancement"],
+      "comment": "Not much seafood and like 5 strings of pasta at the bottom.",
+      "reply": "We apologize for the disappointment with the seafood. Your feedback is noted, and we're currently working on menu enhancements to provide a more satisfying seafood experience. Thank you for helping us improve.",
+      "satisfaction": 0
+    },
+    {
+      "keywords": ["restaurant", "perfectly cooked scallop", "sauce balance"],
+      "comment": "The salad had just the right amount of sauce to not overpower the scallop, which was perfectly cooked.",
+      "reply": "We're delighted to hear that you enjoyed the perfectly cooked scallop and balanced sauce! Your positive feedback encourages our commitment to culinary excellence. We look forward to serving you again soon.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "unappetizing banana", "culinary refinement"],
+      "comment": "The ripped banana was not only ripped, but petrified and tasteless.",
+      "reply": "We apologize for the unappetizing experience. Your feedback is important, and we're focusing on culinary refinement to ensure each dish meets the highest standards. Thank you for bringing this to our attention.",
+      "satisfaction": 0
+    },
+    {
+      "keywords": ["restaurant", "prompt service", "customer care"],
+      "comment": "At least think to refill my water before I struggle to wave you over for 10 minutes.",
+      "reply": "We apologize for any inconvenience. In our commitment to customer care, we're emphasizing prompt service and are implementing measures to ensure a more timely response to customer needs. Thank you for your feedback.",
+      "satisfaction": 0
+    },
+    {
+      "keywords": ["restaurant", "appetizer excellence", "upcoming events"],
+      "comment": "This place receives stars for their APPETIZERS!!!",
+      "reply": "We're thrilled that you enjoyed our appetizers! To celebrate their excellence, we'll be hosting upcoming events featuring our signature appetizers. We hope you can join us for a memorable experience.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "handmade cocktails", "mixology showcase"],
+      "comment": "The cocktails are all handmade and delicious.",
+      "reply": "Thank you for your positive feedback on our handmade cocktails! To showcase our mixology expertise, we'll be hosting a mixology showcase soon. We look forward to serving you again during this special event.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "returning customers", "loyalty rewards"],
+      "comment": "We'd definitely go back here again.",
+      "reply": "We're delighted to hear that you'd go back! As a token of our appreciation, we're introducing loyalty rewards for returning customers. Thank you for your positive feedback, and we look forward to serving you again soon.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "hidden gem discovery", "unique offerings"],
+      "comment": "We are so glad we found this place.",
+      "reply": "We're thrilled to be your hidden gem discovery! To enhance your experience, we're continually introducing unique offerings. Thank you for choosing us, and we look forward to serving you again.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "positive feedback", "military discount"],
+      "comment": "Great food and service, huge portions and they give a military discount.",
+      "reply": "Thank you for your positive feedback! We appreciate your service, and to show our gratitude, we'll continue offering a military discount. We look forward to serving you again.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "Dos Gringos experience", "entertaining atmosphere"],
+      "comment": "Always a great time at Dos Gringos!",
+      "reply": "We're thrilled to hear that you always have a great time at Dos Gringos! To enhance your experience, we're introducing new elements to create a more entertaining atmosphere. Thank you for your positive feedback, and we look forward to your next visit.",
+      "satisfaction": 1
+    },
+    {
+      "keywords": ["restaurant", "repeat visit", "consistent excellence"],
+      "comment": "Update.....went back for a second time and it was still just as amazing.",
+      "reply": "We're thrilled to hear that you enjoyed your repeat visit! Our team is committed to consistent excellence, and we're glad you experienced it firsthand. Thank you for your positive feedback, and we look forward to serving you again.",
+      "satisfaction": 1
+    },
+  {
+    "keywords": ["restaurant", "lack of salt", "chewy fish batter", "culinary improvement"],
+    "comment": "We got the food and apparently they have never heard of salt and the batter on the fish was chewy.",
+    "reply": "We apologize for the seasoning oversight and the texture of the fish batter. Your feedback is noted, and we're committed to continuous culinary improvement.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "great ending", "culinary experience"],
+    "comment": "A great way to finish a great.",
+    "reply": "We're thrilled that you had a great culinary experience! Thank you for your positive feedback on the ending. We look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "tasting deal", "exceptional service", "event"],
+    "comment": "The deal included 5 tastings and 2 drinks, and Jeff went above and beyond what we expected.",
+    "reply": "We're glad you enjoyed the tasting deal and experienced exceptional service from Jeff! We appreciate your positive feedback. Keep an eye out for more exciting events.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "consistently good rice", "culinary consistency"],
+    "comment": "Really, really good rice, all the time.",
+    "reply": "Thank you for your positive feedback on our consistently good rice! We strive for culinary consistency and look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "mediocre service", "improvement"],
+    "comment": "The service was meh.",
+    "reply": "We apologize for the mediocre service. Your feedback is important, and we'll work to improve in this area. Thank you for bringing it to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "delayed milkshake", "chocolate milk"],
+    "comment": "It took over 30 min to get their milkshake, which was nothing more than chocolate milk.",
+    "reply": "We apologize for the delay and the disappointment with the milkshake. Your feedback is noted, and we'll work to ensure a more timely service in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "Excalibur location", "customer expectation"],
+    "comment": "I guess I should have known that this place would suck, because it is inside of the Excalibur, but I didn't use my common sense.",
+    "reply": "We appreciate your feedback. We understand that location perception varies, and we'll continue to strive for excellence regardless of the setting.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "appalling scallop dish", "value assessment"],
+    "comment": "The scallop dish is quite appalling for value as well.",
+    "reply": "We apologize for the disappointment with the value of the scallop dish. Your feedback helps us improve, and we'll reassess the offering.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "poor customer service", "repeated incidents"],
+    "comment": "2 times - Very Bad Customer Service!",
+    "reply": "We apologize for the poor customer service you experienced. Your feedback is noted, and we'll address this issue to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "delicious sweet potato fries", "well-seasoned"],
+    "comment": "The sweet potato fries were very good and seasoned well.",
+    "reply": "Thank you for your positive feedback on our sweet potato fries! We're glad you enjoyed them and hope to serve you again soon.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "lunch buffet", "positive experience", "repeat visit"],
+    "comment": "Today is the second time I've been to their lunch buffet and it was pretty good.",
+    "reply": "We're delighted to hear that you had a positive experience with our lunch buffet! Thank you for choosing to dine with us again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "missed opportunity", "food variety"],
+    "comment": "There is so much good food in Vegas that I feel cheated for wasting an eating opportunity by going to Rice and Company.",
+    "reply": "We appreciate your feedback. We'll strive to enhance our menu variety to provide more appealing options for your next visit.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "underwhelming experience", "relationship analogy"],
+    "comment": "Coming here is like experiencing an underwhelming relationship where both parties can't wait for the other person to ask to break up.",
+    "reply": "We apologize for the underwhelming experience. Your feedback is noted, and we'll work to create more satisfying dining experiences.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "unpleasant odor", "ambiance"],
+    "comment": "walked in and the place smelled like an old grease trap and only 2 others there eating.",
+    "reply": "We apologize for the unpleasant odor. Your feedback is valuable, and we'll address this issue to ensure a better ambiance for our customers.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "bland turkey and roast beef", "culinary improvement"],
+    "comment": "The turkey and roast beef were bland.",
+    "reply": "We apologize for the blandness. Your feedback is important, and we'll work to enhance the flavors of our turkey and roast beef.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "culinary excellence"],
+    "comment": "This place has it!",
+    "reply": "Thank you for your positive feedback! We're delighted that you enjoyed your experience, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "disappointing pancakes", "sugary disaster"],
+    "comment": "The pan cakes everyone are raving about taste like a sugary disaster tailored to the palate of a six year old.",
+    "reply": "We apologize for the disappointment with the pancakes. Your feedback is noted, and we'll reassess the recipe to better suit our customers.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "love for Pho", "yummy spring rolls"],
+    "comment": "I love the Pho and the spring rolls oh so yummy you have to try.",
+    "reply": "We're thrilled that you love our Pho and spring rolls! Your positive feedback is appreciated, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "unsatisfying chicken tenders", "batter-to-meat ratio"],
+    "comment": "The poor batter to meat ratio made the chicken tenders very unsatisfying.",
+    "reply": "We apologize for the unsatisfactory chicken tenders. Your feedback is valuable, and we'll work on improving the batter-to-meat ratio.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "amazing food", "culinary delight"],
+    "comment": "All I have to say is the food was amazing!!!",
+    "reply": "We're thrilled that you enjoyed our food! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "Omelets to die for", "culinary excellence"],
+    "comment": "Omelets are to die for!",
+    "reply": "Thank you for your positive feedback on our omelets! We're glad you enjoyed them and hope to serve you again soon.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "fresh and delicious everything", "culinary delight"],
+    "comment": "Everything was fresh and delicious!",
+    "reply": "We're delighted that you enjoyed everything! Your positive feedback is appreciated, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "largely disappointing experience", "continuous improvement"],
+    "comment": "In summary, this was a largely disappointing dining experience.",
+    "reply": "We apologize for the disappointment. Your feedback is important, and we're committed to continuous improvement. If you have specific suggestions, please let us know.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "sexy party in your mouth", "culinary delight"],
+    "comment": "It's like a really sexy party in your mouth, where you're outrageously flirting with the hottest person at the party.",
+    "reply": "We're thrilled that you had a culinary delight! Thank you for your creative feedback. We look forward to hosting more 'sexy parties' in your mouth.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "Hard Rock Casino", "negative experience"],
+    "comment": "Never been to Hard Rock Casino before, WILL NEVER EVER STEP FORWARD IN IT AGAIN!",
+    "reply": "We're sorry to hear about your negative experience. If there's anything specific you'd like us to address, please let us know.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "best breakfast buffet", "culinary delight"],
+    "comment": "Best breakfast buffet!!!",
+    "reply": "We're thrilled that you enjoyed our breakfast buffet! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "unsatisfactory service", "customer dissatisfaction"],
+    "comment": "say bye bye to your tip lady!",
+    "reply": "We apologize for the unsatisfactory service. Your feedback is noted, and we'll address this issue to ensure a better experience for our customers.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "will not return", "customer dissatisfaction"],
+    "comment": "We'll never go again.",
+    "reply": "We're sorry to hear that you won't be returning. If there's anything specific you'd like us to address, please let us know.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "positive revisit", "customer loyalty"],
+    "comment": "Will be back again!",
+    "reply": "We're delighted to hear that you plan to revisit! Thank you for your positive feedback, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "quick food delivery", "customer satisfaction"],
+    "comment": "Food arrived quickly!",
+    "reply": "Thank you for acknowledging our quick food delivery! We appreciate your positive feedback and look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "not good", "customer dissatisfaction"],
+    "comment": "It was not good.",
+    "reply": "We apologize if your experience did not meet expectations. Your feedback is important, and we'll strive to improve. If you have specific concerns, please let us know.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "off the strip", "pork belly", "Vegas return"],
+    "comment": "Definitely worth venturing off the strip for the pork belly, will return next time I'm in Vegas.",
+    "reply": "We're thrilled to hear that you found our pork belly worth the venture! Thank you for your positive feedback, and we look forward to welcoming you back on your next visit to Vegas.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "overpriced", "mediocre food"],
+    "comment": "This place is way too overpriced for mediocre food.",
+    "reply": "We apologize if our pricing did not meet your expectations, and we appreciate your feedback on the food. Your comments are noted, and we'll assess ways to enhance both the value and quality of our offerings.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "Penne vodka", "excellent"],
+    "comment": "Penne vodka excellent!",
+    "reply": "Thank you for your positive feedback on our Penne vodka! We're delighted that you enjoyed it and hope to serve you again soon.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "food selection", "massive meatloaf sandwich", "chicken wrap", "tuna melt", "tasty burgers"],
+    "comment": "They have a good selection of food including a massive meatloaf sandwich, a crispy chicken wrap, a delish tuna melt and some tasty burgers.",
+    "reply": "We're glad you enjoyed our diverse food selection! Thank you for your positive feedback, and we look forward to serving you again with more tasty options.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "rude management"],
+    "comment": "The management is rude.",
+    "reply": "We apologize for any negative experience with our management. Your feedback is important, and we'll address this issue to ensure a more pleasant atmosphere for our guests.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "Delicious NYC bagels", "cream cheese", "Lox with capers"],
+    "comment": "Delicious NYC bagels, good selections of cream cheese, real Lox with capers even.",
+    "reply": "We're delighted that you enjoyed our NYC bagels and selections! Thank you for your positive feedback, and we look forward to serving you more delicious options.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "Great Subway", "expectation-setting"],
+    "comment": "Great Subway, in fact it's so good when you come here every other Subway will not meet your expectations.",
+    "reply": "Thank you for the high praise! We're honored to set a high standard for your expectations. We look forward to consistently meeting them on your future visits.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "solid breakfast", "culinary satisfaction"],
+    "comment": "I had a seriously solid breakfast here.",
+    "reply": "We're thrilled that you enjoyed your breakfast! Thank you for your positive feedback, and we look forward to serving you again for more culinary satisfaction.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "best bars with food", "Vegas"],
+    "comment": "This is one of the best bars with food in Vegas.",
+    "reply": "Thank you for considering us among the best bars with food in Vegas! We appreciate your positive feedback and look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "extremely rude", "alternative dining options", "Vegas weekend"],
+    "comment": "He was extremely rude and really, there are so many other restaurants I would love to dine at during a weekend in Vegas.",
+    "reply": "We apologize for the rudeness you experienced. Your feedback is important, and we'll work to ensure a more pleasant experience. If you have specific suggestions for improvement, please let us know.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "never empty drink", "great menu suggestions"],
+    "comment": "My drink was never empty and he made some really great menu suggestions.",
+    "reply": "We're glad you enjoyed the service and menu suggestions! Thank you for your positive feedback, and we look forward to serving you more of your favorites in the future.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "Don't do it", "alternative choices"],
+    "comment": "Don't do it!!!!",
+    "reply": "We're sorry to hear that you had a negative experience. If you have specific concerns you'd like us to address or suggestions for improvement, please let us know.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "unhelpful waiter", "infrequent checks"],
+    "comment": "The waiter wasn't helpful or friendly and rarely checked on us.",
+    "reply": "We apologize for the unhelpful service. Your feedback is noted, and we'll address this issue to ensure a more attentive and friendly experience for our guests.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "disappointed lunch", "food and service"],
+    "comment": "My husband and I ate lunch here and were very disappointed with the food and service.",
+    "reply": "We apologize for the disappointment with both the food and service. Your feedback is important, and we'll work to enhance both aspects for a better dining experience.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "red curry", "bamboo shoots", "taste evaluation"],
+    "comment": "And the red curry had so much bamboo shoots and wasn't very tasty to me.",
+    "reply": "We apologize for the dissatisfaction with the red curry. Your feedback is valuable, and we'll reassess the dish to better meet your taste preferences.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "blanket of moz", "subpar food cover-up"],
+    "comment": "Nice blanket of moz over top but I feel like this was done to cover up the subpar food.",
+    "reply": "We apologize if it seemed that way. Your feedback is important, and we'll work to ensure our food stands out without any cover-ups. Thank you for bringing this to our attention.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "clean bathrooms", "well-decorated place"],
+    "comment": "The bathrooms are clean and the place itself is well decorated.",
+    "reply": "Thank you for noticing our efforts in maintaining cleanliness and a well-decorated atmosphere. We appreciate your positive feedback and look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "changing menu", "food quality", "slow service"],
+    "comment": "The menu is always changing, food quality is going down & service is extremely slow.",
+    "reply": "We appreciate your feedback on the changing menu, food quality, and service. Your comments are noted, and we'll strive to maintain high standards in all aspects of our offerings.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "slow service", "multiple servers", "food pace"],
+    "comment": "The service was a little slow, considering that were served by 3 people servers so the food was coming in a slow pace.",
+    "reply": "We apologize for the slower service pace. Your feedback is important, and we'll address this issue to ensure a more timely and coordinated service in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "2 thumbs down", "customer dissatisfaction"],
+    "comment": "I give it 2 thumbs down.",
+    "reply": "We're sorry to hear about your dissatisfaction. If there's anything specific you'd like us to address, please let us know. We value your feedback and strive to improve.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "waiter attention", "customer observation"],
+    "comment": "We watched our waiter pay a lot more attention to other tables and ignore us.",
+    "reply": "We apologize for any perceived neglect. Your feedback is important, and we'll work to ensure fair attention to all our guests. Thank you for bringing this to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "greeted and seated", "positive midday visit"],
+    "comment": "My fiancé and I came in the middle of the day and we were greeted and seated right away.",
+    "reply": "We're delighted that you had a positive midday visit! Thank you for your positive feedback, and we look forward to serving you again in the future.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "great restaurant", "Mandalay Bay"],
+    "comment": "This is a great restaurant at the Mandalay Bay.",
+    "reply": "Thank you for considering us a great restaurant at Mandalay Bay! We appreciate your positive feedback and look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "forty five minutes wait", "customer dissatisfaction"],
+    "comment": "We waited for forty five minutes in vain.",
+    "reply": "We apologize for the extended wait time. Your feedback is important, and we'll assess our processes to ensure a more efficient and pleasant experience for our guests.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "stale Crostini", "salad side"],
+    "comment": "Crostini that came with the salad was stale.",
+    "reply": "We apologize for the stale Crostini. Your feedback is noted, and we'll work to ensure the freshness of all our menu items. Thank you for bringing this to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "Great quality nigiri", "culinary excellence"],
+    "comment": "Some highlights: Great quality nigiri here!",
+    "reply": "Thank you for your positive feedback on our nigiri! We're thrilled that you enjoyed it, and we look forward to serving you more culinary excellence in the future.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "friendly staff", "clean joint"],
+    "comment": "the staff is friendly and the joint is always clean.",
+    "reply": "Thank you for acknowledging our friendly staff and cleanliness! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "different cut", "wonderful and tender", "well-flavored"],
+    "comment": "this was a different cut than the piece the other day but still wonderful and tender s well as well flavored.",
+    "reply": "We're glad you enjoyed the different cut! Thank you for your positive feedback, and we look forward to serving you more wonderful and tender dishes in the future.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "Voodoo pasta", "excellent gluten-free option"],
+    "comment": "I ordered the Voodoo pasta and it was the first time I'd had really excellent pasta since going gluten-free several years ago.",
+    "reply": "We're thrilled that you found our Voodoo pasta to be an excellent gluten-free option! Your positive feedback is appreciated, and we look forward to serving you more delicious options in the future.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "good place"],
+    "comment": "this place is good.",
+    "reply": "Thank you for your positive feedback! We're glad you find our place good and hope to serve you again soon.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "good cafe", "positive experience"],
+    "comment": "On the up side, their cafe serves really good food.",
+    "reply": "We're glad you enjoyed the food at our cafe! Thank you for your positive feedback. We look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "fantastic server", "special gestures"],
+    "comment": "Our server was fantastic and when he found out the wife loves roasted garlic and bone marrow, he added extra to our meal and another marrow to go!",
+    "reply": "We're delighted to hear about your fantastic server and the special gestures made to enhance your dining experience! Thank you for sharing, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "only good thing", "helpful waiter", "bloody mary"],
+    "comment": "The only good thing was our waiter, he was very helpful and kept the bloody mary's coming.",
+    "reply": "We appreciate your positive feedback about our helpful waiter and the Bloody Marys! We're glad you enjoyed your experience, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "best buffet", "affordable price"],
+    "comment": "Best Buffet in town, for the price you cannot beat it.",
+    "reply": "We're thrilled that you consider us the best buffet in town! Thank you for your positive feedback on our affordable prices. We look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "loved mussels", "tender duck", "delicious potato dishes"],
+    "comment": "I LOVED their mussels cooked in this wine reduction, the duck was tender, and their potato dishes were delicious.",
+    "reply": "We're delighted to hear that you loved our mussels, tender duck, and delicious potato dishes! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "better buffets", "positive experience"],
+    "comment": "This is one of the better buffets that I have been to.",
+    "reply": "Thank you for considering us one of the better buffets! We're glad you had a positive experience, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "fantastic afternoon", "positive experience"],
+    "comment": "So we went to Tigerlilly and had a fantastic afternoon!",
+    "reply": "We're thrilled that you had a fantastic afternoon at Tigerlilly! Thank you for your positive feedback, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "delicious food", "attentive bartender", "great deal"],
+    "comment": "The food was delicious, our bartender was attentive and personable AND we got a great deal!",
+    "reply": "We're glad you enjoyed the delicious food and had an attentive and personable bartender! Thank you for your positive feedback on the great deal. We look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "wonderful ambience", "music playing"],
+    "comment": "The ambience is wonderful and there is music playing.",
+    "reply": "Thank you for your positive feedback on our wonderful ambience and music! We're glad you enjoyed your experience and look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "return next trip", "customer loyalty"],
+    "comment": "Will go back next trip out.",
+    "reply": "We're delighted to hear that you plan to go back on your next trip! Thank you for your positive feedback and customer loyalty. We look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "soooo good", "positive experience"],
+    "comment": "Sooooo good!!",
+    "reply": "We're thrilled that you found it soooo good! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "sushi lovers", "honest assessment"],
+    "comment": "REAL sushi lovers, let's be honest - Yama is not that good.",
+    "reply": "We appreciate your honest assessment. If there are specific aspects you think we can improve, please let us know. Your feedback is valuable to us.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "long wait", "unexplained delay"],
+    "comment": "At least 40min passed in between us ordering and the food arriving, and it wasn't that busy.",
+    "reply": "We apologize for the unexplained delay in service. Your feedback is important, and we'll investigate to ensure a more efficient dining experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "fantastic Thai restaurant", "worth a visit"],
+    "comment": "This is a really fantastic Thai restaurant which is definitely worth a visit.",
+    "reply": "We're thrilled that you find us a really fantastic Thai restaurant! Thank you for your positive feedback, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "nice and spicy", "tender"],
+    "comment": "Nice, spicy and tender.",
+    "reply": "Thank you for your positive feedback on our nice, spicy, and tender dish! We're glad you enjoyed it and look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "good prices", "affordable"],
+    "comment": "Good prices.",
+    "reply": "We're glad you find our prices reasonable! Thank you for your positive feedback, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "check it out", "encouragement"],
+    "comment": "Check it out.",
+    "reply": "Thank you for the encouragement! We appreciate your interest, and we look forward to the opportunity to serve you.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "pretty gross", "customer dissatisfaction"],
+    "comment": "It was pretty gross!",
+    "reply": "We apologize if your experience was not up to standard. Your feedback is important, and we'll work to improve. If you have specific concerns, please let us know.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "better atmosphere", "customer expectation"],
+    "comment": "I've had better atmosphere.",
+    "reply": "We're sorry to hear that the atmosphere didn't meet your expectations. Your feedback is noted, and we'll strive to improve. If you have specific suggestions, please let us know.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "hard to mess up a steak", "disappointing experience"],
+    "comment": "Kind of hard to mess up a steak but they did.",
+    "reply": "We apologize for the disappointing experience with the steak. Your feedback is important, and we'll work on improving to meet your expectations.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "disappointing experience", "continuous improvement"],
+    "comment": "Although I very much liked the look and sound of this place, the actual experience was a bit disappointing.",
+    "reply": "We apologize for the disappointing experience. Your feedback is important, and we're committed to continuous improvement. If you have specific suggestions, please let us know.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "blandest food", "Indian cuisine"],
+    "comment": "I just don't know how this place managed to serve the blandest food I have ever eaten when they are preparing Indian cuisine.",
+    "reply": "We apologize if the food did not meet your expectations. Your feedback is valuable, and we'll work to enhance the flavors in our Indian cuisine.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "worst service", "customer dissatisfaction"],
+    "comment": "Worst service to boot, but that is the least of their worries.",
+    "reply": "We apologize for the worst service you experienced. Your feedback is noted, and we'll address this issue to ensure a better experience for our customers.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "fine service", "friendly waitress"],
+    "comment": "Service was fine and the waitress was friendly.",
+    "reply": "Thank you for your positive feedback on our fine service and friendly waitress! We appreciate your kind words and look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "best steak ever", "customer satisfaction"],
+    "comment": "The guys all had steaks, and our steak-loving son who has had steak at the best and worst places said it was the best steak he's ever eaten.",
+    "reply": "We're thrilled to hear that your son found our steak to be the best he's ever eaten! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "good sushi spot", "positive experience"],
+    "comment": "We thought you'd have to venture further away to get good sushi, but this place really hit the spot that night.",
+    "reply": "We're delighted that you found our place to be a good sushi spot! Thank you for your positive feedback, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "unfriendly host staff", "customer dissatisfaction"],
+    "comment": "Host staff were, for lack of a better word, BITCHES!",
+    "reply": "We apologize for the unfriendly experience with our host staff. Your feedback is important, and we'll address this issue to ensure a better welcome for our guests.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "bland food", "negative review"],
+    "comment": "Bland... Not a liking this place for a number of reasons and I don't want to waste time on bad reviewing.. I'll leave it at that...",
+    "reply": "We're sorry to hear about your disappointment. If you have specific concerns you'd like us to address, please let us know. Your feedback helps us improve.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "phenomenal food", "positive experience"],
+    "comment": "Phenomenal food, service and ambiance.",
+    "reply": "We're thrilled that you found our food, service, and ambiance to be phenomenal! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "wouldn't return", "customer dissatisfaction"],
+    "comment": "I wouldn't return.",
+    "reply": "We're sorry to hear that you wouldn't return. If there's anything specific you'd like us to address, please let us know. Your feedback is valuable to us.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "stale food", "disappointment"],
+    "comment": "Unfortunately, we must have hit the bakery on leftover day because everything we ordered was STALE.",
+    "reply": "We apologize for the stale food. Your feedback is important, and we'll address this issue to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "not impressed", "return visit"],
+    "comment": "I came back today since they relocated and still not impressed.",
+    "reply": "We're sorry to hear that you were not impressed. Your feedback is noted, and we'll strive to make improvements. We appreciate your input.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "immediate seating", "positive experience"],
+    "comment": "I was seated immediately.",
+    "reply": "We're glad to hear that you were seated promptly. Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "diverse menu", "reasonable prices"],
+    "comment": "Their menu is diverse, and reasonably priced.",
+    "reply": "We're pleased to hear you enjoyed our diverse menu and reasonable prices. Your positive feedback is valued, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "avoid at all cost", "negative experience"],
+    "comment": "Avoid at all cost!",
+    "reply": "We're sorry to hear about your negative experience. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "always full", "no wait"],
+    "comment": "Restaurant is always full but never a wait.",
+    "reply": "We're glad you've noticed our popularity! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "delicious", "positive experience"],
+    "comment": "DELICIOUS!!",
+    "reply": "We're thrilled you found our food delicious! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "best places to eat", "Phoenix metro area"],
+    "comment": "This place is hands-down one of the best places to eat in the Phoenix metro area.",
+    "reply": "We're honored to be considered one of the best! Your positive feedback is appreciated, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "looking for good food", "negative experience"],
+    "comment": "So don't go there if you are looking for good food...",
+    "reply": "We're sorry to hear about your experience. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "treated so bad", "negative experience"],
+    "comment": "I've never been treated so bad.",
+    "reply": "We apologize for the poor treatment. Your feedback is important, and we'll address this issue to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "salty bacon", "positive experience"],
+    "comment": "Bacon is hella salty.",
+    "reply": "We're glad you enjoyed the salty bacon! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "spinach and avocado salad", "disappointment", "food quality"],
+    "comment": "We also ordered the spinach and avocado salad, the ingredients were sad and the dressing literally had zero taste.",
+    "reply": "We apologize for the disappointing salad. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "Vegas fine dining", "nostalgia"],
+    "comment": "This really is how Vegas fine dining used to be, right down to the menus handed to the ladies that have no prices listed.",
+    "reply": "We're glad you appreciate the nostalgic aspect of our fine dining. Your positive feedback is valued, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "friendly waitresses", "positive experience"],
+    "comment": "The waitresses are very friendly.",
+    "reply": "We're pleased to hear positive feedback about our friendly waitresses! Your comments are appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "Khao Soi", "curry lovers", "positive experience"],
+    "comment": "Lordy, the Khao Soi is a dish that is not to be missed for curry lovers!",
+    "reply": "We're thrilled you enjoyed the Khao Soi! Your positive feedback is valued, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "menu terrific", "vegetarian accommodations", "positive experience"],
+    "comment": "Everything on the menu is terrific and we were also thrilled that they made amazing accommodations for our vegetarian daughter.",
+    "reply": "We're pleased to hear positive feedback about our menu and accommodations. Your comments are appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "off night", "negative experience"],
+    "comment": "Perhaps I caught them on an off night judging by the other reviews, but I'm not inspired to go back.",
+    "reply": "We're sorry to hear about your off-night experience. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "service leaves a lot to be desired", "negative experience"],
+    "comment": "The service here leaves a lot to be desired.",
+    "reply": "We apologize for the service shortcomings. Your feedback is important, and we'll address this issue to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "modern and hip atmosphere", "cozy touch", "positive experience"],
+    "comment": "The atmosphere is modern and hip, while maintaining a touch of coziness.",
+    "reply": "We're glad you appreciate the atmosphere! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "not a weekly haunt", "occasional visit", "positive experience"],
+    "comment": "Not a weekly haunt, but definitely a place to come back to every once in a while.",
+    "reply": "We're pleased to be part of your occasional visits! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "20 minutes no order", "negative experience"],
+    "comment": "We literally sat there for 20 minutes with no one asking to take our order.",
+    "reply": "We apologize for the long wait. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "bland burger", "overcooked", "lack of flavor", "negative experience"],
+    "comment": "The burger had absolutely no flavor - the meat itself was totally bland, the burger was overcooked and there was no charcoal flavor.",
+    "reply": "We're sorry to hear about your disappointing burger. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "decided not to send it back", "waitress overwhelmed", "negative experience"],
+    "comment": "I also decided not to send it back because our waitress looked like she was on the verge of having a heart attack.",
+    "reply": "We apologize for the experience. Your feedback is important, and we'll address this issue to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "dressed up rudely treated", "negative experience"],
+    "comment": "I dressed up to be treated so rudely!",
+    "reply": "We apologize for the poor treatment. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "probably dirt", "negative experience"],
+    "comment": "It was probably dirt.",
+    "reply": "We apologize for the unpleasant experience. Your feedback is important, and we'll address this issue to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "love this place", "healthy options", "positive experience"],
+    "comment": "Love this place, hits the spot when I want something healthy but not lacking in quantity or flavor.",
+    "reply": "We're thrilled you love our place! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "Lemon raspberry ice cocktail", "incredible", "positive experience"],
+    "comment": "I ordered the Lemon raspberry ice cocktail which was also incredible.",
+    "reply": "We're glad you enjoyed the cocktail! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "sucked more than imagined", "negative experience"],
+    "comment": "The food sucked, which we expected but it sucked more than we could have imagined.",
+    "reply": "We're sorry to hear about your disappointing experience. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "interesting decor", "positive experience"],
+    "comment": "Interesting decor.",
+    "reply": "We're pleased you find our decor interesting! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "crepe station", "positive experience"],
+    "comment": "What I really like there is the crepe station.",
+    "reply": "We're glad you enjoy our crepe station! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "hot bread", "butter", "potato chips", "bacon bits", "original", "good"],
+    "comment": "Also were served hot bread and butter, and home made potato chips with bacon bits on top....very original and very good.",
+    "reply": "We're delighted you enjoyed our hot bread, butter, and homemade potato chips! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "watch them preparing", "delicious food", "positive experience"],
+    "comment": "You can watch them preparing the delicious food!",
+    "reply": "We're glad you enjoyed watching our food preparation! Your positive feedback is appreciated, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "egg rolls", "fantastic", "positive experience"],
+    "comment": "Both of the egg rolls were fantastic.",
+    "reply": "We're pleased you enjoyed our fantastic egg rolls! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "order arrived", "gyros missing", "negative experience"],
+    "comment": "When my order arrived, one of the gyros was missing.",
+    "reply": "We apologize for the missing gyro. Your feedback is important, and we'll address this issue to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "salad", "wings", "ice cream", "satisfied", "positive experience"],
+    "comment": "I had a salad with the wings, and some ice cream for dessert and left feeling quite satisfied.",
+    "reply": "We're glad you left feeling satisfied! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "Joey's", "best hot dog", "Phoenix Magazine", "disappointment", "negative experience"],
+    "comment": "I'm not really sure how Joey's was voted best hot dog in the Valley by readers of Phoenix Magazine.",
+    "reply": "We're sorry to hear about your disappointment. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "tasty bowl of Pho", "positive experience"],
+    "comment": "The best place to go for a tasty bowl of Pho!",
+    "reply": "We're thrilled you enjoyed our Pho! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "live music on Fridays", "disappointing", "negative experience"],
+    "comment": "The live music on Fridays totally blows.",
+    "reply": "We apologize if the live music did not meet your expectations. Your feedback is important, and we'll strive to make improvements.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "insulted", "disrespected", "negative experience"],
+    "comment": "I've never been more insulted or felt disrespected.",
+    "reply": "We apologize for any offense caused. Your feedback is important, and we'll address this issue to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "friendly staff", "positive experience"],
+    "comment": "Very friendly staff.",
+    "reply": "We're glad you found our staff friendly! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "worth the drive", "positive experience"],
+    "comment": "It is worth the drive.",
+    "reply": "We're pleased to be worth the drive! Your positive feedback is valued, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "heard good things", "exceeded hopes", "positive experience"],
+    "comment": "I had heard good things about this place, but it exceeded every hope I could have dreamed of.",
+    "reply": "We're thrilled to have exceeded your expectations! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "food was great", "service was great", "positive experience"],
+    "comment": "Food was great and so was the service!",
+    "reply": "We're pleased you enjoyed both the food and service! Your positive feedback is valued, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "warm beer", "negative experience"],
+    "comment": "The warm beer didn't help.",
+    "reply": "We apologize for the warm beer. Your feedback is important, and we'll address this issue to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "great brunch spot", "positive experience"],
+    "comment": "Great brunch spot.",
+    "reply": "We're glad you enjoyed our brunch! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "friendly and inviting service", "positive experience"],
+    "comment": "Service is friendly and inviting.",
+    "reply": "We're pleased you found our service friendly and inviting! Your positive feedback is valued, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "good lunch spot", "positive experience"],
+    "comment": "Very good lunch spot.",
+    "reply": "We're glad you enjoyed our lunch spot! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "first time since 1979", "negative experience"],
+    "comment": "I've lived here since 1979 and this was the first (and last) time I've stepped foot into this place.",
+    "reply": "We're sorry to hear that your first experience was disappointing. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "WORST EXPERIENCE EVER", "negative experience"],
+    "comment": "The WORST EXPERIENCE EVER.",
+    "reply": "We apologize for the terrible experience. Your feedback is important, and we'll address this issue to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "off night", "negative experience"],
+    "comment": "Must have been an off night at this place.",
+    "reply": "We're sorry to hear about your off-night experience. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "delish sides", "positive experience"],
+    "comment": "The sides are delish - mixed mushrooms, yukon gold puree, white corn - beateous.",
+    "reply": "We're pleased you enjoyed our delish sides! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "bug incident", "negative experience"],
+    "comment": "If that bug never showed up I would have given a 4 for sure, but on the other side of the wall where this bug was climbing was the kitchen.",
+    "reply": "We apologize for the bug incident. Your feedback is important, and we'll address this issue to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "waiting for salad", "negative experience"],
+    "comment": "For about 10 minutes, we were waiting for her salad when we realized that it wasn't coming any time soon.",
+    "reply": "We apologize for the delay in serving your salad. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "salmon tartar", "positive experience"],
+    "comment": "My friend loved the salmon tartar.",
+    "reply": "We're glad your friend enjoyed the salmon tartar! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "won't go back", "negative experience"],
+    "comment": "Won't go back.",
+    "reply": "We're sorry to hear that you won't be returning. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "extremely tasty", "positive experience"],
+    "comment": "Extremely Tasty!",
+    "reply": "We're thrilled you found our food extremely tasty! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "good waitress", "positive experience"],
+    "comment": "Waitress was good though!",
+    "reply": "We're pleased to hear positive feedback about our waitress! Your comments are appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "soggy and not good", "negative experience"],
+    "comment": "Soggy and not good.",
+    "reply": "We apologize for the disappointing experience. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "Jamaican mojitos", "delicious", "positive experience"],
+    "comment": "The Jamaican mojitos are delicious.",
+    "reply": "We're glad you enjoyed the Jamaican mojitos! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "small portions", "not worth the price", "negative experience"],
+    "comment": "Which are small and not worth the price.",
+    "reply": "We apologize for the dissatisfaction with portion size and value. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "rich food", "ordering advice", "positive experience"],
+    "comment": "The food is rich so order accordingly.",
+    "reply": "Thank you for the advice! We're glad you enjoyed the rich food. Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["shower area outside", "can only rinse", "full shower not possible", "negative experience"],
+    "comment": "The shower area is outside so you can only rinse, not take a full shower, unless you don't mind being nude for everyone to see!",
+    "reply": "We apologize for any inconvenience. Your feedback is important, and we'll assess the situation to provide a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "service lacking", "negative experience"],
+    "comment": "The service was a bit lacking.",
+    "reply": "We apologize for the service lapse. Your feedback is important, and we'll address this issue to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "menu items need salt and pepper", "unsatisfactory seasoning", "negative experience"],
+    "comment": "Lobster Bisque, Bussell Sprouts, Risotto, Filet ALL needed salt and pepper..and of course there is none at the tables.",
+    "reply": "We apologize for the seasoning issue. Your feedback is important, and we'll work to improve our offerings. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "business closure", "negative experience"],
+    "comment": "Hopefully this bodes for them going out of business and someone who can cook can come in.",
+    "reply": "We're sorry to hear about your dissatisfaction. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "food quality issues", "negative experience"],
+    "comment": "It was either too cold, not enough flavor or just bad.",
+    "reply": "We apologize for the quality issues. Your feedback is important, and we'll work to improve our offerings. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "bacon wrapped dates", "positive experience"],
+    "comment": "I loved the bacon wrapped dates.",
+    "reply": "We're glad you enjoyed the bacon wrapped dates! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["unbelievable BARGAIN", "positive experience"],
+    "comment": "This is an unbelievable BARGAIN!",
+    "reply": "We're thrilled you found it an unbelievable bargain! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "welcoming staff", "positive experience"],
+    "comment": "The folks at Otto always make us feel so welcome and special.",
+    "reply": "We're pleased to hear positive feedback about our staff! Your comments are appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "uninspired mains", "negative experience"],
+    "comment": "As for the 'mains,' also uninspired.",
+    "reply": "We apologize for the uninspiring mains. Your feedback is important, and we'll work to improve our offerings. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["first pho experience", "amazing", "positive experience"],
+    "comment": "This is the place where I first had pho and it was amazing!!",
+    "reply": "We're thrilled to be a part of your first pho experience! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["wonderful experience", "must-stop", "positive experience"],
+    "comment": "This wonderful experience made this place a must-stop whenever we are in town again.",
+    "reply": "We're delighted to hear about your wonderful experience! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "bad food and dealing with drunk people", "negative experience"],
+    "comment": "If the food isn't bad enough for you, then enjoy dealing with the world's worst/annoying drunk people.",
+    "reply": "We apologize for the inconvenience. Your feedback is important, and we'll address this issue to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["very fun chef", "positive experience"],
+    "comment": "Very very fun chef.",
+    "reply": "We're glad you enjoyed the fun atmosphere with our chef! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["wrong order", "single patty instead of double cheeseburger", "unsatisfactory order", "negative experience"],
+    "comment": "Ordered a double cheeseburger & got a single patty that was falling apart (picture uploaded) Yeah, still sucks.",
+    "reply": "We apologize for the error in your order. Your feedback is important, and we'll work to prevent such incidents in the future. We hope to have the chance to make it up to you.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["drinks and sports", "great place", "positive experience"],
+    "comment": "Great place to have a couple drinks and watch any and all sporting events as the walls are covered with TV's.",
+    "reply": "We're thrilled you enjoyed the atmosphere! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["zero stars", "negative experience"],
+    "comment": "If it were possible to give them zero stars, they'd have it.",
+    "reply": "We're sorry to hear about your dissatisfaction. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["sauces missing", "menu item descriptions not accurate", "unsatisfactory sauces", "negative experience"],
+    "comment": "The descriptions said 'yum yum sauce' and another said 'eel sauce', yet another said 'spicy mayo'...well NONE of the rolls had sauces on them.",
+    "reply": "We apologize for the discrepancy. Your feedback is important, and we'll work to ensure accurate menu descriptions. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["amazing dishes", "tastes how they are supposed to taste", "positive experience"],
+    "comment": "I'd say that would be the hardest decision... Honestly, all of M's dishes taste how they are supposed to taste (amazing).",
+    "reply": "We're delighted you enjoyed our dishes! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["eye-rolling waitress", "unsure if will go back", "negative experience"],
+    "comment": "If she had not rolled the eyes we may have stayed... Not sure if we will go back and try it again.",
+    "reply": "We apologize for the behavior and any inconvenience caused. Your feedback is important, and we'll address this issue to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["attentive staff", "excellent customer service", "positive experience"],
+    "comment": "Everyone is very attentive, providing excellent customer service.",
+    "reply": "We're pleased to hear about the attentive staff! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["horrible experience", "negative experience"],
+    "comment": "Horrible - don't waste your time and money.",
+    "reply": "We're sorry to hear about your dissatisfaction. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["flavorful dish", "positive experience"],
+    "comment": "Now this dish was quite flavourful.",
+    "reply": "We're thrilled you enjoyed the flavorful dish! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["empty side of the restaurant", "cold building", "negative experience"],
+    "comment": "By this time our side of the restaurant was almost empty so there was no excuse. (It wasn't busy either) Also, the building was FREEZING cold.",
+    "reply": "We apologize for the inconvenience. Your feedback is important, and we'll address this issue to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["not worth going back", "negative experience"],
+    "comment": "like the other reviewer said 'you couldn't pay me to eat at this place again.'",
+    "reply": "We're sorry to hear about your dissatisfaction. Your feedback is important, and we'll strive to improve. We hope to have the chance to make it up to you in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["drinks took 30 minutes", "unsatisfactory service", "negative experience"],
+    "comment": "-Drinks took close to 30 minutes to come out at one point.",
+    "reply": "We apologize for the delay in service. Your feedback is important, and we'll work to ensure prompt service in the future. We hope to have the chance to make it up to you.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["flavorful delights", "positive experience"],
+    "comment": "Seriously flavorful delights, folks.",
+    "reply": "We're delighted you enjoyed the flavorful delights! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["better than other AYCE sushi place", "positive experience"],
+    "comment": "Much better than the other AYCE sushi place I went to in Vegas.",
+    "reply": "We're thrilled to hear you enjoyed our sushi! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["dark atmosphere", "positive experience"],
+    "comment": "The lighting is just dark enough to set the mood.",
+    "reply": "We're glad you enjoyed the atmospheric lighting! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "sub-par service", "no effort", "gratitude", "business"],
+    "comment": "Based on the sub-par service I received and no effort to show their gratitude for my business I won't be going back.",
+    "reply": "We apologize for the sub-par service you experienced at our restaurant. Customer satisfaction is our priority, and we're implementing changes to ensure a better experience. We appreciate your feedback.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "great owners", "positive experience"],
+    "comment": "Owner's are really great people!",
+    "reply": "We're delighted to hear you appreciate our owners at the restaurant! Their dedication is reflected in our commitment to providing a positive dining experience. Thank you for your kind words.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "nothing privileged", "working/eating", "interior", "negative experience"],
+    "comment": "There is nothing privileged about working/eating there.",
+    "reply": "We're sorry to hear about your experience at our restaurant. We're actively working on improvements, including a recent decision to revamp the interior. Your feedback is valuable to us.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "creamy", "flavorful", "positive response", "seasonal menu"],
+    "comment": "The Greek dressing was very creamy and flavorful.",
+    "reply": "We're thrilled you enjoyed the creamy and flavorful Greek dressing at our restaurant! Your positive response to our new seasonal menu is appreciated, and we hope to exceed your expectations in the future.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "not take parents", "similar complaints", "unsatisfactory experience", "management"],
+    "comment": "Overall, I don't think that I would take my parents to this place again because they made most of the similar complaints that I silently felt too.",
+    "reply": "We apologize for the unsatisfactory experience at our restaurant. Your feedback about similar complaints is concerning, and we are actively addressing management issues to improve. We appreciate your honesty.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "good pizza", "peanut sauce", "positive feedback", "tasty"],
+    "comment": "Now the pizza itself was good the peanut sauce was very tasty.",
+    "reply": "We're thrilled you found the pizza and peanut sauce tasty at our restaurant! Your positive feedback encourages us to continue delivering delicious experiences. Thank you!",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "table service", "fast", "fantastic service", "positive experience"],
+    "comment": "We had 7 at our table and the service was pretty fast.",
+    "reply": "We're delighted you had a fantastic experience with fast service for your party of 7 at our restaurant! Your positive feedback means a lot to us, and we hope to welcome you again soon.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "fantastic service", "positive experience"],
+    "comment": "Fantastic service here.",
+    "reply": "We're thrilled to hear you had a fantastic experience with our service at the restaurant! Your positive feedback is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "godfathers", "zero stars", "negative experience"],
+    "comment": "I as well would've given godfathers zero stars if possible.",
+    "reply": "We apologize for the negative experience with Godfathers. Your feedback is important, and we appreciate your honesty. We strive to improve and hope to earn a higher rating in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "know how to make", "positive experience"],
+    "comment": "They know how to make them here.",
+    "reply": "We're glad you enjoyed what we make at our restaurant! Your positive feedback encourages us to maintain our standards, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "tough", "short on flavor", "negative experience"],
+    "comment": "Very tough and very short on flavor!",
+    "reply": "We apologize for the disappointing experience with the toughness and lack of flavor. Your feedback is noted, and we're committed to improving. Thank you for bringing this to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "hope", "stick around", "positive experience"],
+    "comment": "I hope this place sticks around.",
+    "reply": "Thank you for your support and kind words! We're here to stay and look forward to serving you at our restaurant for years to come.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "bars in Vegas", "charged for tap water", "negative experience"],
+    "comment": "I have been in more than a few bars in Vegas, and do not ever recall being charged for tap water.",
+    "reply": "We apologize for any inconvenience. Charging for tap water is not our practice, and we appreciate you bringing this to our attention. Your feedback helps us maintain our standards.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "atmosphere", "exquisite", "positive experience"],
+    "comment": "The restaurant atmosphere was exquisite.",
+    "reply": "We're delighted you enjoyed the exquisite atmosphere at our restaurant! Your positive feedback is valued, and we look forward to providing you with more wonderful experiences.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "good service", "very clean", "inexpensive", "positive experience"],
+    "comment": "Good service, very clean, and inexpensive, to boot!",
+    "reply": "We're glad you had a positive experience with good service, cleanliness, and reasonable prices at our restaurant! Your feedback encourages us to maintain these standards, and we hope to welcome you back soon.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "seafood", "fresh", "generous in portion", "positive experience"],
+    "comment": "The seafood was fresh and generous in portion.",
+    "reply": "We're pleased to hear you enjoyed the fresh and generously portioned seafood at our restaurant! Your positive feedback is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "8 bucks", "positive experience"],
+    "comment": "Plus, it's only 8 bucks.",
+    "reply": "We're glad you found value in our offerings at the restaurant! Your positive feedback on the pricing is appreciated, and we look forward to providing more great experiences.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "service", "not up to par", "negative experience"],
+    "comment": "The service was not up to par, either.",
+    "reply": "We apologize for the service not meeting expectations at our restaurant. Your feedback is valuable, and we're working on improvements to ensure a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "visited twice", "absolutely delicious", "positive experience"],
+    "comment": "Thus far, have only visited twice and the food was absolutely delicious each time.",
+    "reply": "We're thrilled to hear you found the food absolutely delicious on both visits to our restaurant! Your positive experience means a lot to us, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "good as a year ago", "positive experience"],
+    "comment": "Just as good as when I had it more than a year ago!",
+    "reply": "We're delighted to maintain the consistency you enjoyed a year ago at our restaurant! Your positive feedback encourages us, and we're committed to delivering great experiences.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "coffee cafe", "wildly disappointed", "negative experience"],
+    "comment": "For a self-proclaimed coffee cafe, I was wildly disappointed.",
+    "reply": "We apologize for the disappointment with our coffee offerings. Your feedback is important, and we're working to enhance our coffee experience at the restaurant. Thank you for bringing this to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "Vegetarian platter", "out of this world", "positive experience"],
+    "comment": "The Vegetarian platter is out of this world!",
+    "reply": "We're thrilled you enjoyed the Vegetarian platter at our restaurant! Your positive feedback is valued, and we look forward to serving you more out-of-this-world dishes in the future.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "can't go wrong", "positive experience"],
+    "comment": "You can't go wrong with any of the food here.",
+    "reply": "We're delighted you feel that way about our food offerings at the restaurant! Your positive feedback encourages us to maintain our high standards, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "can't beat that", "positive experience"],
+    "comment": "You can't beat that.",
+    "reply": "We're glad you feel that way! Your positive feedback about our offerings at the restaurant is appreciated, and we look forward to providing more unbeatable experiences.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "Madison", "Ironman", "friendly staff", "positive experience"],
+    "comment": "Stopped by this place while in Madison for the Ironman, very friendly, kind staff.",
+    "reply": "We're delighted to hear you had a positive experience with our friendly and kind staff at the restaurant! Your feedback is valued, and we hope to welcome you back on your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "chefs", "friendly", "good job", "positive experience"],
+    "comment": "The chefs were friendly and did a good job.",
+    "reply": "We're pleased to hear you had a positive experience with our chefs at the restaurant! Your feedback about their friendliness and skills is appreciated, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "better boba tea spots", "Jenni Pho", "negative experience"],
+    "comment": "I've had better, not only from dedicated boba tea spots, but even from Jenni Pho.",
+    "reply": "We apologize for falling short of expectations compared to other boba tea spots and Jenni Pho. Your feedback is important, and we're committed to improving. Thank you for bringing this to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "patio", "service", "outstanding", "positive experience"],
+    "comment": "I liked the patio and the service was outstanding.",
+    "reply": "We're glad you enjoyed the patio and had outstanding service at our restaurant! Your positive feedback encourages us to maintain these standards, and we look forward to your next visit.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "goat taco", "meat", "FLAVOR", "positive experience"],
+    "comment": "The goat taco didn't skimp on the meat and wow what FLAVOR!",
+    "reply": "We're thrilled you enjoyed the flavorful goat taco at our restaurant! Your positive feedback about the meat and flavor is appreciated, and we can't wait to serve you more delicious dishes.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "think not again", "negative experience"],
+    "comment": "I think not again.",
+    "reply": "We apologize for not meeting your expectations at our restaurant. Your feedback is important, and we're working to improve. We hope to have another chance to provide a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "mac salad", "bland", "not getting again", "negative experience"],
+    "comment": "I had the mac salad and it was pretty bland so I will not be getting that again.",
+    "reply": "We apologize for the bland experience with our mac salad. Your feedback is noted, and we're actively working to enhance our flavors. Thank you for bringing this to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "Bachi Burger", "friend's recommendation", "not disappointed", "positive experience"],
+    "comment": "I went to Bachi Burger on a friend's recommendation and was not disappointed.",
+    "reply": "We're thrilled to hear you had a positive experience at Bachi Burger based on your friend's recommendation! Your feedback is valued, and we hope to welcome you back for more delightful meals.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "service stinks", "negative experience"],
+    "comment": "Service stinks here!",
+    "reply": "We apologize for the unsatisfactory service at our restaurant. Your feedback is important, and we're actively addressing issues to improve. We hope to have another chance to provide a better experience.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "waited and waited", "negative experience"],
+    "comment": "I waited and waited.",
+    "reply": "We apologize for the wait time you experienced at our restaurant. Your feedback is noted, and we're working on improving our service efficiency. Thank you for bringing this to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "quality sushi", "quality restaurant"],
+    "comment": "This place is not quality sushi, it is not a quality restaurant.",
+    "reply": "We're sorry to hear that you did not find our sushi up to your expectations. We value your feedback and will strive to enhance the quality of our offerings.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["recommend", "wings", "pizza"],
+    "comment": "I would definitely recommend the wings as well as the pizza.",
+    "reply": "Thank you for recommending our wings and pizza! We're glad you enjoyed them. Your positive feedback motivates us to maintain high standards in our menu.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "great pizza", "salads", "positive experience"],
+    "comment": "Great Pizza and Salads!",
+    "reply": "We're thrilled you enjoyed our great pizza and salads! Your positive experience is important to us, and we look forward to serving you again soon.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["saganaki", "burned", "things went wrong"],
+    "comment": "Things that went wrong: - They burned the saganaki.",
+    "reply": "We apologize for burning the saganaki during your visit. This is not the experience we aim to provide. Your feedback helps us improve, and we appreciate your understanding.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["waited", "hour", "breakfast", "disappointed"],
+    "comment": "We waited an hour for what was a breakfast I could have done 100 times better at home.",
+    "reply": "We apologize for the extended wait and the disappointment with our breakfast service. Your feedback is noted, and we're working to address wait times to enhance customer satisfaction.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["amazing", "place"],
+    "comment": "This place is amazing!",
+    "reply": "Thank you for the compliment! We're thrilled to hear that you find our place amazing. We strive to provide a memorable experience, and your positive feedback is greatly appreciated.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["disagree", "Yelpers", "disappointed"],
+    "comment": "I hate to disagree with my fellow Yelpers, but my husband and I were so disappointed with this place.",
+    "reply": "We're sorry to hear about your disappointment. We appreciate your honesty and would like to learn more about your experience to make necessary improvements. Please reach out to us with additional details.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["waited", "2 hours", "pizzas", "slow"],
+    "comment": "Waited 2 hours & never got either of our pizzas as many others around us who came in later did!",
+    "reply": "We apologize for the extended wait and the inconvenience with your pizza order. This is not the level of service we aim to provide. Your feedback is crucial, and we're taking steps to address delays in our service.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["slow", "don't know", "why"],
+    "comment": "Just don't know why they were so slow.",
+    "reply": "We apologize for the slow service you experienced. Your feedback is valuable, and we're actively working to improve our efficiency. We appreciate your understanding.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["staff", "great", "food", "delish", "beer selection"],
+    "comment": "The staff is great, the food is delish, and they have an incredible beer selection.",
+    "reply": "We're thrilled you had a great experience with our staff, enjoyed the delicious food, and appreciated our beer selection! Your positive feedback motivates us to maintain high standards in all aspects of our restaurant.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["live", "neighborhood", "disappointed", "won't be back", "convenient location"],
+    "comment": "I live in the neighborhood so I am disappointed I won't be back here, because it is a convenient location.",
+    "reply": "We're sorry to hear about your disappointment, especially as a neighbor. We value your feedback and would like to understand more about your concerns. Please reach out to us so we can address them and hopefully welcome you back.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["pulled pork", "delicious"],
+    "comment": "I didn't know pulled pork could be soooo delicious.",
+    "reply": "We're thrilled you enjoyed the pulled pork at our restaurant! Your positive feedback on the deliciousness of our dishes motivates us to continue providing exceptional culinary experiences. Thank you!",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["incredibly fresh fish", "prepared with care"],
+    "comment": "You get incredibly fresh fish, prepared with care.",
+    "reply": "Thank you for recognizing the freshness and care in the preparation of our fish! We're delighted you enjoyed it, and we look forward to serving you more delightful dishes in the future.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["1 star rating", "third time", "Bachi burger", "atrocious service"],
+    "comment": "Before I go into why I gave a 1-star rating, please know that this was my third time eating at Bachi burger before writing a review.",
+    "reply": "We're sorry to hear about your 1-star rating and the issues you've encountered. Your detailed feedback is crucial for improvement, and we would appreciate the opportunity to address your concerns. Please reach out to us directly to discuss your experiences in more detail.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["love", "fact", "everything", "menu", "worth it"],
+    "comment": "I love the fact that everything on their menu is worth it.",
+    "reply": "We're delighted to hear that you love the value of everything on our menu! Your positive feedback encourages us to continue offering a selection that is worth every bite. Thank you!",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["never again", "dining", "place"],
+    "comment": "Never again will I be dining at this place!",
+    "reply": "We're sorry to hear about your decision to not dine with us again. Your feedback is important, and we would appreciate the opportunity to understand and address the concerns that led to this decision. Please contact us directly to discuss further.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["excellent", "food", "very good", "service"],
+    "comment": "The food was excellent and service was very good.",
+    "reply": "Thank you for your positive feedback on the excellent food and very good service! We're thrilled to hear you had a satisfying experience, and we look forward to serving you again soon.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["good beer", "drink selection", "good food selection"],
+    "comment": "Good beer & drink selection and good food selection.",
+    "reply": "We're glad you enjoyed our good beer and drink selection, as well as our diverse food options! Your positive feedback motivates us to maintain high standards in all aspects of our offerings. Thank you!",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["shrimp stir-fried noodles", "stay away"],
+    "comment": "Please stay away from the shrimp stir-fried noodles.",
+    "reply": "We apologize for any disappointment with our shrimp stir-fried noodles. Your feedback is noted, and we're working to address any issues with this dish. We appreciate your honesty and hope to have the chance to provide a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["potato chip order", "sad", "count", "chips"],
+    "comment": "The potato chip order was sad... I could probably count how many chips were in that box and it was probably around 12.",
+    "reply": "We apologize for the disappointment with the potato chip order. Your feedback is important, and we're actively working to ensure a more satisfying portion in the future. We appreciate your understanding.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["food", "really boring"],
+    "comment": "Food was really boring.",
+    "reply": "We're sorry to hear that you found our food boring. We value your feedback, and we're committed to enhancing the flavors and variety of our offerings. Your input helps us improve, and we appreciate your honesty.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["good service", "check"],
+    "comment": "Good Service-check!",
+    "reply": "Thank you for acknowledging our good service! We're thrilled to hear that we met your expectations. Your positive feedback motivates us to maintain high standards in our service. We look forward to serving you again!",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["greedy corporation", "never see another dime"],
+    "comment": "This greedy corporation will NEVER see another dime from me!",
+    "reply": "We're sorry to hear about your dissatisfaction with our establishment. Your feedback is important, and we would appreciate the opportunity to understand and address your concerns. Please reach out to us directly to discuss further.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["never", "ever", "go back"],
+    "comment": "Will never, ever go back.",
+    "reply": "We're sorry to hear about your decision to not return. Your feedback is important, and we would like the chance to address any concerns that led to this decision. Please contact us directly to discuss further.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["atrocious service", "can't get past"],
+    "comment": "As much as I'd like to go back, I can't get past the atrocious service and will never return.",
+    "reply": "We're sorry to hear about the negative impact of the service on your overall experience. Your feedback is valuable, and we would like the opportunity to address your concerns. Please reach out to us directly to discuss further.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["summer", "dine", "charming outdoor patio", "delightful"],
+    "comment": "In the summer, you can dine in a charming outdoor patio - so very delightful.",
+    "reply": "We're thrilled to hear that you find our charming outdoor patio delightful! We appreciate your positive feedback and look forward to welcoming you to more delightful experiences in the future.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "great food", "high quality", "house made", "positive experience"],
+    "comment": "Great food for the price, which is very high quality and house made.",
+    "reply": "We're thrilled you enjoyed our high-quality, house-made food at the restaurant! Your positive feedback on the pricing and quality is valued, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "bus boy", "rude", "negative experience"],
+    "comment": "The bus boy on the other hand was so rude.",
+    "reply": "We apologize for the rude behavior of our bus boy at the restaurant. Your feedback is important, and we're addressing this issue to ensure a better experience in the future. Thank you for bringing it to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "figured out", "joke", "negative experience"],
+    "comment": "By this point, my friends and I had basically figured out this place was a joke and didn't mind making it publicly and loudly known.",
+    "reply": "We're sorry to hear that your experience led you to feel this way about our restaurant. We appreciate your feedback and are committed to improving. We hope to have another chance to provide a better experience.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "good BBQ", "lighter fare", "reasonable pricing", "positive experience"],
+    "comment": "Back to good BBQ, lighter fare, reasonable pricing and tell the public they are back to the old ways.",
+    "reply": "We're glad to hear you enjoyed the return to good BBQ, lighter fare, and reasonable pricing at our restaurant! Your positive feedback encourages us, and we look forward to serving you more delicious meals.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "full", "happy", "$20", "positive experience"],
+    "comment": "And considering the two of us left there very full and happy for about $20, you just can't go wrong.",
+    "reply": "We're delighted you found value in your meal at our restaurant! Your positive feedback on the pricing and satisfaction is appreciated, and we look forward to providing more great experiences.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "bread", "made in-house", "positive experience"],
+    "comment": "All the bread is made in-house!",
+    "reply": "We're thrilled you enjoyed our in-house-made bread at the restaurant! Your positive feedback is valued, and we look forward to serving you more delicious dishes.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "only downside", "service", "negative experience"],
+    "comment": "The only downside is the service.",
+    "reply": "We apologize for any inconvenience with the service at our restaurant. Your feedback is important, and we're working on improvements to ensure a better experience in the future. Thank you for bringing this to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "fries", "worst fries", "negative experience"],
+    "comment": "Also, the fries are without a doubt the worst fries I've ever had.",
+    "reply": "We apologize for the disappointment with our fries at the restaurant. Your feedback is noted, and we're actively working to improve our offerings. Thank you for bringing this to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "exceptional service", "food", "good as reviews", "positive experience"],
+    "comment": "Service was exceptional and food was a good as all the reviews.",
+    "reply": "We're pleased to hear you had exceptional service and enjoyed the food at our restaurant! Your positive feedback encourages us, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "couple of months later", "amazing meal", "positive experience"],
+    "comment": "A couple of months later, I returned and had an amazing meal.",
+    "reply": "We're thrilled you had an amazing meal during your return to our restaurant! Your positive feedback means a lot to us, and we look forward to providing more delightful meals in the future.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "favorite place", "shawarrrrrrma", "positive experience"],
+    "comment": "Favorite place in town for shawarrrrrrma!!!!!!",
+    "reply": "We're delighted to be your favorite place for shawarma in town! Your positive feedback is valued, and we look forward to serving you more delicious dishes.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "black eyed peas", "sweet potatoes", "UNREAL", "positive experience"],
+    "comment": "The black eyed peas and sweet potatoes... UNREAL!",
+    "reply": "We're thrilled you enjoyed the black-eyed peas and sweet potatoes at our restaurant! Your positive feedback is appreciated, and we look forward to serving you more unreal dishes.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "won't be disappointed", "positive experience"],
+    "comment": "You won't be disappointed.",
+    "reply": "We're glad you feel that way! Your positive feedback about our offerings at the restaurant is appreciated, and we look forward to providing more satisfying experiences.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "serve with vinaigrette", "better overall dish", "still very good", "positive experience"],
+    "comment": "They could serve it with just the vinaigrette and it may make for a better overall dish, but it was still very good.",
+    "reply": "We're pleased to hear you found our dish still very good at the restaurant! Your feedback on serving with vinaigrette is noted, and we appreciate your valuable input.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "too many places", "1 egg breakfast", "$4.00", "negative experience"],
+    "comment": "I go to far too many places and I've never seen any restaurant that serves a 1 egg breakfast, especially for $4.00.",
+    "reply": "We apologize for falling short of expectations with our 1 egg breakfast pricing at the restaurant. Your feedback is important, and we're actively working to address this issue. Thank you for bringing it to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "mom and I", "got home", "sick", "few bites of salad", "negative experience"],
+    "comment": "When my mom and I got home she immediately got sick and she only had a few bites of salad.",
+    "reply": "We're sorry to hear about your experience, and we take this matter seriously. Your feedback is important, and we're investigating to ensure the safety of our dishes at the restaurant. Thank you for bringing this to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "servers", "not pleasant", "Pizza Hut coupons", "negative experience"],
+    "comment": "The servers are not pleasant to deal with and they don't always honor Pizza Hut coupons.",
+    "reply": "We apologize for the unpleasant experience with our servers at the restaurant and the issue with Pizza Hut coupons. Your feedback is noted, and we're actively addressing these concerns. Thank you for bringing it to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "truly unbelievably good", "glad we went back", "positive experience"],
+    "comment": "Both of them were truly unbelievably good, and I am so glad we went back.",
+    "reply": "We're thrilled you found both dishes truly unbelievably good at our restaurant! Your positive feedback encourages us, and we look forward to serving you more delicious meals in the future.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "fantastic service", "pleased by atmosphere", "positive experience"],
+    "comment": "We had fantastic service, and were pleased by the atmosphere.",
+    "reply": "We're delighted to hear you had fantastic service and enjoyed the atmosphere at our restaurant! Your positive feedback is valued, and we look forward to providing more wonderful experiences.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "everything was gross", "negative experience"],
+    "comment": "Everything was gross.",
+    "reply": "We apologize for the unsatisfactory experience with our offerings at the restaurant. Your feedback is important, and we're actively working to improve. We hope to have another chance to provide a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "love this place", "positive experience"],
+    "comment": "I love this place.",
+    "reply": "We love that you love our place! Your positive feedback is appreciated, and we look forward to welcoming you back for more enjoyable experiences at the restaurant.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "great service", "good food", "positive experience"],
+    "comment": "Great service and food.",
+    "reply": "We're pleased to hear you had great service and enjoyed the food at our restaurant! Your positive feedback encourages us, and we look forward to serving you again.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "bathrooms", "dirty", "seat covers", "yucky", "negative experience"],
+    "comment": "First - the bathrooms at this location were dirty- Seat covers were not replenished & just plain yucky!!!",
+    "reply": "We apologize for the unsatisfactory condition of the bathrooms at our restaurant. Your feedback is important, and we're actively addressing these issues to ensure a better experience in the future. Thank you for bringing it to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "burger", "$17", "kind of disappointed", "negative experience"],
+    "comment": "The burger... I got the \"Gold Standard\" a $17 burger and was kind of disappointed.",
+    "reply": "We apologize for falling short of expectations with our $17 burger at the restaurant. Your feedback is noted, and we're working on improvements. Thank you for bringing this to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "OMG", "delicioso", "positive experience"],
+    "comment": "OMG, the food was delicioso!",
+    "reply": "We're thrilled you found our food delicioso at the restaurant! Your positive feedback is appreciated, and we look forward to serving you more delicious dishes.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "nothing authentic", "negative experience"],
+    "comment": "There is nothing authentic about this place.",
+    "reply": "We apologize for falling short of expectations regarding authenticity at our restaurant. Your feedback is important, and we're actively working to improve. Thank you for bringing this to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "spaghetti", "nothing special", "negative experience"],
+    "comment": "the spaghetti is nothing special whatsoever.",
+    "reply": "We apologize for the disappointment with our spaghetti at the restaurant. Your feedback is noted, and we're actively working to enhance our offerings. Thank you for bringing this to our attention.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "all dishes", "salmon", "best", "great", "positive experience"],
+    "comment": "Of all the dishes, the salmon was the best, but all were great.",
+    "reply": "We're thrilled you enjoyed the salmon and all the dishes at our restaurant! Your positive feedback encourages us, and we look forward to serving you more great meals.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "vegetables", "fresh", "sauce", "authentic Thai", "positive experience"],
+    "comment": "The vegetables are so fresh and the sauce feels like authentic Thai.",
+    "reply": "We're delighted you enjoyed the fresh vegetables and authentic Thai sauce at our restaurant! Your positive feedback is valued, and we look forward to serving you more authentic dishes.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "worth driving up from Tucson", "positive experience"],
+    "comment": "It's worth driving up from Tucson!",
+    "reply": "We're honored that you find it worth driving up from Tucson to visit our restaurant! Your positive feedback is appreciated, and we look forward to welcoming you back for more delightful experiences.",
+    "satisfaction": 1
+  },
+  {
+    "keywords": ["restaurant", "selection", "worst", "Vegas", "negative experience"],
+    "comment": "The selection was probably the worst I've seen in Vegas.....there was none.",
+    "reply": "We apologize for the disappointing selection at our restaurant in Vegas. Your feedback is important, and we're working to improve. We hope to have another chance to provide a better experience in the future.",
+    "satisfaction": 0
+  },
+  {
+    "keywords": ["restaurant", "beer selection", "pretty good", "positive experience"],
+    "comment": "Pretty good beer selection too.",
+    "reply": "We're pleased to hear you enjoyed our pretty good beer selection at the restaurant! Your positive feedback encourages us, and we look forward to serving you more enjoyable beverages in the future.",
+    "satisfaction": 1
+  }
+
+
+]
